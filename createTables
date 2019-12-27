@@ -1,0 +1,4 @@
+Create table Test(
+ID integer,
+Name varchar(30)
+);
